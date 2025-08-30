@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   
-# Hi, I’m Zir 👋  
+# Hi, I’m YuKi BoY 👋  
 Building bots, automation, and clean web stuff.
 
 [![GitHub followers](https://img.shields.io/github/followers/yukiboy121?label=Follow&style=for-the-badge)](https://github.com/yukiboy121)
@@ -40,6 +40,6 @@ Building bots, automation, and clean web stuff.
 </p>
 
 ## Links
-- 🌐 Website/Portfolio: https://your-domain-here  
-- 💬 Discord: yourDiscordTag  
-- 📫 Email: your@email
+- 🌐 Website/Portfolio: https://zaikodev.xyz  
+- 💬 Discord: https://discord.gg/Gb8hXkURGS  
+- 📫 Email: yukiboy49@gmail.com
